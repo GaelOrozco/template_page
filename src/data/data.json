@@ -1,21 +1,15 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Citado en APA",
+    "paragraph": "Mas importante de lo que piensas. Formatos de citación"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "La citación en formato APA es crucial en el ámbito académico por varias razones. En primer lugar, permite dar crédito a los autores de las ideas o datos que utilizamos, lo que evita el plagio y respeta la propiedad intelectual. Este reconocimiento no solo es ético, sino que también fortalece la credibilidad del trabajo, mostrando que está basado en investigaciones previas.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Facilita la organización del trabajo.",
+      "Estandariza las referencias bibliográficas.",
+      "Evita el plagio académico.",
+      "Proporciona claridad en las fuentes citadas."
     ]
   },
   "Gallery": [
@@ -162,23 +156,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Dar crédito",
+      "text": "Reconoce el trabajo de los autores y evita el plagio."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Respaldar evidencia",
+      "text": "Fundamenta afirmaciones con fuentes confiables."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Localizar fuentes",
+      "text": "Facilita a los lectores encontrar las fuentes originales."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Demostrar investigación",
+      "text": "Muestra que se ha realizado una investigación completa."
     }
   ]
 }
