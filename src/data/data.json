@@ -62,18 +62,18 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Citado de Diccionarios",
+      "text": "Las citas de un diccionario impreso, a diferencia de las anteriores, siempre se refieren a una edición específica con una fecha de publicación, información que debe aparecer en la cita. No incluyas el editor por segunda vez si ya figura en la posición del autor. "
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Citado de peliculas",
+      "text": "Al citar una película según el formato APA, debes enumerar su director o directores en el lugar del autor, así como la compañía de producción en el del editor. El título debe escribirse con la primera letra de la primera palabra en mayúsculas (a diferencia del inglés) y en cursiva, seguido de la etiqueta Película entre corchetes."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Citado de Música",
+      "text": "Si recuperó la letra directamente de escuchar la canción, haga referencia a la canción usando el siguiente ejemplo general: ReferenciaApellido, N. (año). Título de la canción [Canción]."
     },
     {
       "icon": "fa fa-language",
