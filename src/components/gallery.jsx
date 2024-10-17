@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Tipos de Formatos.</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Aqui veras y encontraras los diferentes formatos en los que se usa el formato APA en el día a día.
           </p>
         </div>
         <div className="row">
