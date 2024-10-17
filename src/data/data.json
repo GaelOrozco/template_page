@@ -68,7 +68,7 @@
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Citado de peliculas",
-      "text": "Al citar una película según el formato APA, debes enumerar su director o directores en el lugar del autor, así como la compañía de producción en el del editor. El título debe escribirse con la primera letra de la primera palabra en mayúsculas (a diferencia del inglés) y en cursiva, seguido de la etiqueta Película entre corchetes."
+      "text": "Al citar una película en formato APA, enumera a los directores en lugar del autor y la compañía de producción como editor. El título se escribe con la primera letra en mayúsculas (a diferencia del inglés) y en cursiva, seguido de la etiqueta Película entre corchetes."
     },
     {
       "icon": "fa fa-cloud-download",
@@ -77,8 +77,8 @@
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Metodo cientifico",
+      "text": "Al aplicar el método científico en formato APA, comienza con un título conciso. En la introducción, presenta el problema de investigación y su relevancia. En el método, detalla el diseño, participantes y materiales. Los resultados deben ser claros y concisos, seguidos de una discusión que interprete los hallazgos. Finalmente, incluye una lista de referencias en el formato adecuado."
     },
     {
       "icon": "fa fa-plane",
